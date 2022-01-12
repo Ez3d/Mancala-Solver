@@ -1,0 +1,5 @@
+Login:
+gcloud auth login --update-adc
+
+Set Credentials:
+set GOOGLE_APPLICATION_CREDENTIALS=D:\Users\Ez3d\Documents\Cloud Vision\mancala-1639878949959-d9b6e998c679.json
