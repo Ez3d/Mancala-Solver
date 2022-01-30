@@ -7,4 +7,5 @@ Uses Google's Cloud Vision API to read data from a screenshot.
 <img src="https://user-images.githubusercontent.com/73318619/151686278-051871e2-f9be-44bc-b117-8fd23e688b21.jpg" width="200">
 
 Outputs the best possible move sequences
-![image](https://user-images.githubusercontent.com/73318619/151686264-9ed7f586-b083-42b8-bcad-773760abbf95.png)
+
+<img src="https://user-images.githubusercontent.com/73318619/151686264-9ed7f586-b083-42b8-bcad-773760abbf95.png" width="200">
